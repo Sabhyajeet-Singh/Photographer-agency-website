@@ -549,12 +549,12 @@ html {
 
     /* perk section */
     #perks{
-        height:320vh;
+        height:300vh;
         padding: 30px 0;
     }
     #perks .grid_container{
         width: 85%;
-        height: 300vh;
+        height: 290vh;
         grid-template-columns: auto;
         padding: 10px ;
         grid-gap: 0;
