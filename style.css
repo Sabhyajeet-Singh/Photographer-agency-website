@@ -141,7 +141,7 @@ html {
     left: 0px;
     display: none;
     transition: all 1s;
-}
+} 
 
 .header .navLinks ul li:hover:before {
     display: block;
@@ -549,7 +549,7 @@ html {
 
     /* perk section */
     #perks{
-        height: 150vh;
+        height: auto;
         padding: 30px 0;
     }
     #perks .grid_container{
