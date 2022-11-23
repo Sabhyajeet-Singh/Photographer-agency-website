@@ -273,7 +273,7 @@ html {
 /* @@@@@@@@@@@@ Banner Content @@@@@@@@@@@@@@ */
 
 .text_container {
-
+    float:right;
     position: absolute;
     right: 0;
     height: 90vh;
