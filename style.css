@@ -556,7 +556,7 @@ html {
     }
     #perks .grid_container{
         width: 85%;
-        height: 290vh;
+        height: 200vh;
         grid-template-columns: auto;
         padding: 10px ;
         grid-gap: 0;
