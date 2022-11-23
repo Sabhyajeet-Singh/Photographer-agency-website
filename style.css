@@ -549,7 +549,7 @@ html {
 
     /* perk section */
     #perks{
-height:150vh;
+        box-sizing:border-box;
         padding: 30px 0;
     }
     #perks .grid_container{
