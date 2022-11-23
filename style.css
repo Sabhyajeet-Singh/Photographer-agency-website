@@ -275,12 +275,12 @@ html {
 .text_container {
     
     position: absolute;
-    top:30%;
+    top:0%;
     right: 0;
     height: 90vh;
     width: 60%;
     padding: 65px 20px;
-    margin-left:40px;
+    margin-left:100px;
 
 }
 
