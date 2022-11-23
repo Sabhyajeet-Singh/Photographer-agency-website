@@ -276,7 +276,9 @@ html {
     
     position: absolute;
     top:0;
-    right: 0;
+    right: -20%;
+    bottom:20%;
+    
     height: 90vh;
     width: 60%;
     padding: 65px 20px;
