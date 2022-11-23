@@ -276,12 +276,10 @@ html {
     
     position: absolute;
     top:0;
-    right: -20%;
-    bottom:20%;
-    
+    right:0;    
     height: 90vh;
-    width: 60%;
-    padding: 65px 20px;
+    width: 40%;
+    padding: 65px 0;
     margin-left:100px;
 
 }
