@@ -517,22 +517,22 @@ html {
         
     }
     #banner{
-        height: 90vh;
+        height: 100vh;
         width: 100vw;
-        background-size: 210% 55%;
+        background-size: 210% 50%;
         background-repeat: no-repeat;
         overflow: hidden;
     }
     #banner .text_container{
         height: 350px;
         width: 90%;
-        top: 58%;
+        top: 53%;
         
         left: 3%;
         padding: 0 20px;
     }
     #banner .col-1 .text_container .primary_heading{
-        font-size: 45px;
+        font-size: 40px;
         letter-spacing: normal;
         
         
@@ -554,7 +554,7 @@ html {
     }
     #perks .grid_container{
         width: 85%;
-        height: 130vh;
+        height: 98%;
         grid-template-columns: auto;
         padding: 10px ;
         grid-gap: 0;
